@@ -1,5 +1,7 @@
 # Evolution-Simulator
 A Basic Evolution Simulator using JavaFX 3D
+This is a project I made in Honors Artificial Intelligence class in my Junior year of High School. The text below was written during that time.
+
 ![Project View](https://i.imgur.com/xkVzkOf.png)
 This project has music in the background! Taken from here.
 
